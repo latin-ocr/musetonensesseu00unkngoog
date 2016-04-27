@@ -1,0 +1,18 @@
+40 MUSAE monemus.
+
+“ Ille ego Volscorum terror, quem vidit euntem
+“ Ad Capitolinum laeta caterva Jovem.
+‘⁶ Ille ege, quem belli decuere insignia, Marti
+“ Quemque suo voluit perfida Roma parem,
+“Exul agor patri ; neque jam mihi laetus ovanti 25
+“ Miles, Io, magne voce, triumphe, canit.
+‘⁶ Sed vagor ignotos nullo comitante per agros,
+‘⁶ Quuque trahit gressus sors inimica, sequor.
+“ Pone metum ; nou arma sero, non fallere tento,
+‘⁶ Non tegit hic habitus, npu chlamys atradolos.
+“ Non ee vis animo: Aufidium jam Marcius oret,
+
+‘⁶ victorumque rogat victor inermis opem.'’ 32
+
+ 
+
